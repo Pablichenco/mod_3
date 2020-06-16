@@ -30,6 +30,7 @@ int main(int argc, const char * argv[]) {
         printf("%d , %f \n",i,Arr[i]);
     }
     
+    printf("Ola no es hola");
     
     return 0;
 }
